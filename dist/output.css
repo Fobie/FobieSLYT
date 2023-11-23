@@ -1109,6 +1109,11 @@ html{
     margin-bottom: calc(0px * var(--tw-space-y-reverse));
   }
 
+  .md\:px-20 {
+    padding-left: 5rem;
+    padding-right: 5rem;
+  }
+
   .md\:text-left {
     text-align: left;
   }
